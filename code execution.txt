@@ -4,7 +4,7 @@ Code can be executed in two ways -
 	a. Go to "scrapy_code\ccFetch\."
 	b. Open cmd/terminal
 	c. Type command - "scrapy crawl ccrawl -o cnn_data.xlsx -a domain=cnn.com"
-
+scrapy crawl ccrawl -o kegelsbikes.com.json -a domain=www.kegelsbikes.com
 2. Use a python script:
 	a. Go to "scrapy_code\ccFetch\."
 	b. Open cmd/terminal
